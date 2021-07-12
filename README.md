@@ -1,2 +1,3 @@
 test
-test จ๊ะ
+test 
+จ๊ะ
